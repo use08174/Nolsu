@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/nolsu/static/css/main.a084c179.css",
-    "main.js": "/nolsu/static/js/main.d4d0be32.js",
-    "static/js/453.ee0e3b1a.chunk.js": "/nolsu/static/js/453.ee0e3b1a.chunk.js",
-    "static/media/image1.png": "/nolsu/static/media/image1.ee06bed2c955b9d74179.png",
-    "static/media/image3.png": "/nolsu/static/media/image3.12becc2b25ce7aa1adba.png",
-    "static/media/image2.png": "/nolsu/static/media/image2.374069a64f1178170553.png",
-    "index.html": "/nolsu/index.html",
-    "main.a084c179.css.map": "/nolsu/static/css/main.a084c179.css.map",
-    "main.d4d0be32.js.map": "/nolsu/static/js/main.d4d0be32.js.map",
-    "453.ee0e3b1a.chunk.js.map": "/nolsu/static/js/453.ee0e3b1a.chunk.js.map"
+    "main.css": "/Nolsu/static/css/main.a084c179.css",
+    "main.js": "/Nolsu/static/js/main.143d759f.js",
+    "static/js/453.ee0e3b1a.chunk.js": "/Nolsu/static/js/453.ee0e3b1a.chunk.js",
+    "static/media/image1.png": "/Nolsu/static/media/image1.ee06bed2c955b9d74179.png",
+    "static/media/image3.png": "/Nolsu/static/media/image3.12becc2b25ce7aa1adba.png",
+    "static/media/image2.png": "/Nolsu/static/media/image2.374069a64f1178170553.png",
+    "index.html": "/Nolsu/index.html",
+    "main.a084c179.css.map": "/Nolsu/static/css/main.a084c179.css.map",
+    "main.143d759f.js.map": "/Nolsu/static/js/main.143d759f.js.map",
+    "453.ee0e3b1a.chunk.js.map": "/Nolsu/static/js/453.ee0e3b1a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a084c179.css",
-    "static/js/main.d4d0be32.js"
+    "static/js/main.143d759f.js"
   ]
 }
