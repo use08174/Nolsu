@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Nolsu/static/css/main.3661e9e9.css",
+    "main.css": "/Nolsu/static/css/main.a60275c0.css",
     "main.js": "/Nolsu/static/js/main.5dd4495f.js",
     "static/media/image1.png": "/Nolsu/static/media/image1.ee06bed2c955b9d74179.png",
     "static/media/image3.png": "/Nolsu/static/media/image3.12becc2b25ce7aa1adba.png",
@@ -12,11 +12,11 @@
     "static/media/img_2.png": "/Nolsu/static/media/img_2.06eb42308b46d9786e82.png",
     "static/media/img_3.png": "/Nolsu/static/media/img_3.61c46d8bc1c633f676cf.png",
     "index.html": "/Nolsu/index.html",
-    "main.3661e9e9.css.map": "/Nolsu/static/css/main.3661e9e9.css.map",
+    "main.a60275c0.css.map": "/Nolsu/static/css/main.a60275c0.css.map",
     "main.5dd4495f.js.map": "/Nolsu/static/js/main.5dd4495f.js.map"
   },
   "entrypoints": [
-    "static/css/main.3661e9e9.css",
+    "static/css/main.a60275c0.css",
     "static/js/main.5dd4495f.js"
   ]
 }
